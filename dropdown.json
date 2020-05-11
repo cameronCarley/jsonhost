@@ -1,0 +1,84 @@
+{
+  "Countries": {
+    "Canada": {
+      "name_en": "Canada",
+      "name_fr": "French Canada"
+    },
+    "USA": {
+      "name_en": "USA",
+      "name_fr": "French USA"
+    },
+    "Mexico": {
+      "name_en": "Mexico",
+      "name_fr": "French Mexico"
+    }
+  },
+  "Provinces": {
+    "Alberta": {
+      "name_en": "Alberta",
+      "name_fr": "French Alberta"
+    },
+    "British Columbia": {
+      "name_en": "BC",
+      "name_fr": "French BC"
+    },
+    "Manitoba": {
+      "name_en": "Manitoba",
+      "name_fr": "French Manitoba"
+    },
+    "New Brunswick": {
+      "name_en": "New Brunswick",
+      "name_fr": "French New Brunswick"
+    },
+    "Newfoundland and Labrador": {
+      "name_en": "Newfoundland and Labrador",
+      "name_fr": "French Newfoundland and Labrador"
+    },
+    "Northwest Territories": {
+      "name_en": "Northwest Territories",
+      "name_fr": "French Northwest Territories"
+    },
+    "Nova Scotia": {
+      "name_en": "Nova Scotia",
+      "name_fr": "French Nova Scotia"
+    },
+    "Nunavut": {
+      "name_en": "Nunavut",
+      "name_fr": "French Nunavut"
+    },
+    "Ontario": {
+      "name_en": "Ontario",
+      "name_fr": "French Ontario"
+    },
+    "Prince Edward Island": {
+      "name_en": "Prince Edward Island",
+      "name_fr": "French Prince Edward Island"
+    },
+    "Quebec": {
+      "name_en": "Quebec",
+      "name_fr": "French Quebec"
+    },
+    "Saskatchewan": {
+      "name_en": "Saskatchewan",
+      "name_fr": "French Saskatchewan"
+    },
+    "Yukon": {
+      "name_en": "Yukon",
+      "name_fr": "French Yukon"
+    }
+  },
+  "States": {
+    "Alabama": {
+      "name_en": "Alabama",
+      "name_fr": "French Alabama"
+    },
+    "Alaska": {
+      "name_en": "Alaska",
+      "name_fr": "French Alaska"
+    },
+    "Arizona": {
+      "name_en": "Arizona",
+      "name_fr": "French Arizona"
+    }
+  }
+}
